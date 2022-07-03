@@ -9,6 +9,10 @@ Automatically published and hosted thanks to [Netlify](https://www.netlify.com/)
 {{% /notice %}}
 
 
+{{% notice note %}}
+Automatically published and hosted thanks to
+{{% /notice %}}
+
 ![code03](/en/images/ucsg06.png?width=35pc&classes=shadow)
 
 
@@ -17,9 +21,8 @@ Automatically published and hosted thanks to [Netlify](https://www.netlify.com/)
 
 This theme is a partial porting of the [Learn theme](http://learn.getgrav.org/) of [Grav](https://getgrav.org/), a modern flat-file CMS written in PHP.
 
-{{% notice tip %}} 
-Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}}) 
-{{% /notice %}}
+
+
 
 ## Main features
 
@@ -50,4 +53,8 @@ This current documentation has been statically generated with Hugo with a simple
 
 {{% notice note %}}
 Automatically published and hosted thanks to [Netlify](https://www.netlify.com/). Read more about [Automated HUGO deployments with Netlify](https://www.netlify.com/blog/2015/07/30/hosting-hugo-on-netlifyinsanely-fast-deploys/)
+{{% /notice %}}
+
+{{% notice info %}}
+Learn theme works with a _page tree structure_ to organize content : All contents are pages, which belong to other pages. [read more about this]({{%relref "cont/pages/_index.md"%}}) 
 {{% /notice %}}
