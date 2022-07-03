@@ -22,12 +22,12 @@ The HTML to include the heart icon is:
 Paste the `<i>` HTML into markup and Font Awesome will load the relevant icon.
 
 ```
-Built with <i class="fas fa-heart"></i> from Grav and Hugo
+Built with <i class="fas fa-heart"></i> from AK and Hugo
 ```
 
 Which appears as
 
-Built with <i class="fas fa-heart"></i> from Grav and Hugo
+Built with <i class="fas fa-heart"></i> from AK and Hugo
 
 ## Customising icons
 
