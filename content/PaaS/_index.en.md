@@ -12,9 +12,10 @@ Read more about [Platform as a Service](https://www.redhat.com/en/technologies/c
 {{% /notice %}}
 
 
-![code03](/en/PaaS/images/openshiftlogo.png?classes=shadow)
+![code03](/en/PaaS/images/openshiftlogo.png?width=900&classes=shadow)
 
 
+![code02](/en/IaaS/requirements/images/code02.gif?classes=shadow)
 
 Discover what this Platform is all about and the core-concepts behind it.
 
