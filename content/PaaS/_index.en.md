@@ -6,7 +6,11 @@ chapter: true
 ---
 
 
-## Platform as a Service
+
+ {{% notice note %}}
+Read more about [Platform as a Service](https://www.redhat.com/en/technologies/cloud-computing/openshift/)
+{{% /notice %}}
+
 
 ![code03](/en/PaaS/images/openshiftlogo.png?classes=shadow)
 
