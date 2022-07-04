@@ -6,9 +6,11 @@ chapter: true
 ---
 
 
-###  Openshift
+## Platform as a Service
+
 ![code03](/en/PaaS/images/openshiftlogo.png?classes=shadow)
 
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+
+Discover what this Platform is all about and the core-concepts behind it.
 
